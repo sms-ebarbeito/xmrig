@@ -4,10 +4,12 @@ This is a base Docker File to compile and run xmrig on docker. To setup a correc
 
 ## Installation
 
-### Modify config.json
+You have two options:
+
+### 1) Modify config.json
 Replace config.json with one of your preferences
 
-### Create a new DockerFile using this build as base import
+### 2) Create a new DockerFile using this build as base import
 
 ```bash
 FROM  kriketronic/xmrig
