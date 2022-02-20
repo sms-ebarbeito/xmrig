@@ -1,1 +1,1 @@
-docker build -t kriketronic/xmrig-ryzen1 .
+docker build -t kriketronic/xmrig-docker1 .
