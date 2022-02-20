@@ -20,6 +20,9 @@ WORKDIR /xmrig/build
 ENTRYPOINT ["./xmrig"]
 ```
 
+## IMPORTANT:
+The container needs to run in PRIVILEGED MODE ON
+
 Enjoy!
 
 ## donations:
