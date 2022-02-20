@@ -19,3 +19,7 @@ ENTRYPOINT ["./xmrig"]
 ```
 
 Enjoy!
+
+## donations:
+### Monero:
+48gNx4o3YpB2ob7L87DKHLVrbe4cEEdDfZgbCLVseCrL7x1BgC9S3PLYGZkTEgBaCzAFXxbYHxbux5dY68ypKpRC2juEDJs
