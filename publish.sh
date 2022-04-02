@@ -1,1 +1,1 @@
-docker push kriketronic/xmrig
+docker push kriketronic/xmrig-docker1
